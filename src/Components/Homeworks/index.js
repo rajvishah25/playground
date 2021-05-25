@@ -28,7 +28,7 @@ function Homeworks() {
                   <th scope="row">1</th>
                   <td>Homework1</td>
                   <td>Git Practice. Provide link of your repo here </td>
-                  <td><a href="https://github.com/"> Link</a> </td>
+                  <td><a href="https://github.com/rajvishah25/playground.git/"> Link</a> </td>
 
                 </tr>
                 <tr>

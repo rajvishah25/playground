@@ -40,7 +40,7 @@ function App() {
                   <th scope="row">3</th>
                   <td>Front End Github</td>
                   <td>Front end github repository link where our instructors can review your code </td>
-                  <td><a href="https://github.com/sachinrajgire/May24react"> Link</a></td>
+                  <td><a href="https://github.com/rajvishah25/playground.git/"> Link</a></td>
                 </tr>
 
 

@@ -38,7 +38,13 @@ function Homeworks() {
                   <td><a href="https://codepen.io/rajvishah25-the-decoder/pen/qBrmwdv"> Link</a> </td>
 
                 </tr>
+                <tr>
+                  <th scope="row">3</th>
+                  <td>Homework 3</td>
+                  <td>HTML Website</td>
+                  <td><a href="file:///Users/rajvishah/Desktop/JavaScript/WriteYourSoftwareHere/html%20website/index.html"> Link</a> </td>
 
+                </tr>
               </tbody>
             </Table>
           </Container>

@@ -45,12 +45,38 @@ function Homeworks() {
                   <td><a href="https://github.com/rajvishah25/HW2.2.git"> Link</a> </td>
 
                 </tr>
+                <tr>
+                  <th scope="row">4</th>
+                  <td>Homework 3</td>
+                  <td>CSS quiz codepen</td>
+                  <td><a href="https://codepen.io/rajvishah25-the-decoder/pen/XWMaLJb
+                  https://codepen.io/rajvishah25-the-decoder/pen/xxqLoaL"> Link</a> </td>
+                  <tr>
+                    <th scope="row">5</th>
+                    <td>Homework 3</td>
+                    <td>CSS quiz 2 codepen</td>
+                    <td><a href="https://codepen.io/rajvishah25-the-decoder/pen/xxqLoaL"> Link</a> </td>
+                  </tr>
+                  <tr>
+                    <th scope="row">5</th>
+                    <td>Homework 3</td>
+                    <td>Navigation Bar</td>
+                    <td><a href="https://codepen.io/rajvishah25-the-decoder/pen/YzZxmXd"> Link</a> </td>
+                  </tr>
+                  <tr>
+                    <th scope="row">5</th>
+                    <td>Homework 3</td>
+                    <td>Javascript</td>
+                    <td><a href="https://codepen.io/rajvishah25-the-decoder/pen/YzZxmXd"> Link</a> </td>
+                  </tr>
+
+
               </tbody>
             </Table>
           </Container>
         </Jumbotron>
       </div>
-    </div>
+      </div>
   );
 }
 

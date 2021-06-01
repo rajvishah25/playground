@@ -70,6 +70,12 @@ function Homeworks() {
                   <td>Javascript</td>
                   <td><a href="https://codepen.io/rajvishah25-the-decoder/pen/YzZxmXd"> Link</a> </td>
                 </tr>
+                <tr>
+                  <th scope="row">5</th>
+                  <td>Homework 5</td>
+                  <td>SCSS toggle</td>
+                  <td><a href="https://codepen.io/rajvishah25-the-decoder/pen/OJpzmab"> Link</a> </td>
+                </tr>
 
 
               </tbody>

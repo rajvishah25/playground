@@ -40,35 +40,35 @@ function Homeworks() {
                 </tr>
                 <tr>
                   <th scope="row">3</th>
-                  <td>Homework 3</td>
+                  <td>Homework 2.2</td>
                   <td>HTML Website</td>
                   <td><a href="https://github.com/rajvishah25/HW2.2.git"> Link</a> </td>
 
                 </tr>
                 <tr>
                   <th scope="row">4</th>
-                  <td>Homework 3</td>
+                  <td>Homework 3.1</td>
                   <td>CSS quiz codepen</td>
                   <td><a href="https://codepen.io/rajvishah25-the-decoder/pen/XWMaLJb
                   https://codepen.io/rajvishah25-the-decoder/pen/xxqLoaL"> Link</a> </td>
                 </tr>
                 <tr>
                   <th scope="row">5</th>
-                  <td>Homework 3</td>
+                  <td>Homework 3.1</td>
                   <td>CSS quiz 2 codepen</td>
                   <td><a href="https://codepen.io/rajvishah25-the-decoder/pen/xxqLoaL"> Link</a> </td>
                 </tr>
                 <tr>
-                  <th scope="row">5</th>
-                  <td>Homework 3</td>
+                  <th scope="row">6</th>
+                  <td>Homework 3.2</td>
                   <td>Navigation Bar</td>
                   <td><a href="https://codepen.io/rajvishah25-the-decoder/pen/YzZxmXd"> Link</a> </td>
                 </tr>
                 <tr>
-                  <th scope="row">5</th>
+                  <th scope="row">3.3</th>
                   <td>Homework 3</td>
-                  <td>Javascript</td>
-                  <td><a href="https://codepen.io/rajvishah25-the-decoder/pen/YzZxmXd"> Link</a> </td>
+                  <td>Javascript function</td>
+                  <td><a href="https://codepen.io/rajvishah25-the-decoder/pen/ExWLQOw"> Link</a> </td>
                 </tr>
                 <tr>
                   <th scope="row">5</th>
@@ -76,6 +76,7 @@ function Homeworks() {
                   <td>SCSS toggle</td>
                   <td><a href="https://codepen.io/rajvishah25-the-decoder/pen/OJpzmab"> Link</a> </td>
                 </tr>
+
 
 
               </tbody>
